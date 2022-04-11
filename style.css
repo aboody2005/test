@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Ubuntu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:  #ffffff;
+}
+.imge{
+    width: 80px;
+    height: 60px;
+margin-bottom: 10px;
+
+}
+.alink{
+    text-decoration: none;
+    color: #dddddd;
+    
+}
+.alink:hover{
+    color: #ffffff;
+}
+
+.logo{
+    margin: 20px 35px auto;
+}
+button{
+    border: none;
+    background:none;    
+margin: 35px 20px auto; 
+text-decoration: none;
+font-size: 28px;
+
+
+}
+.nav-link{
+    margin: 15px 20px auto; 
+    font-size: 30px;
+    color: #577fa2;
+}
+.summary{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+ margin-top: auto;
+text-align: center;
+
+}
+.home{
+    padding-left: 50px;
+    color: #000000;
+}
+.about{
+
+    color: #000000;
+}
+.serves{
+    color: #000000;
+}
+.home:hover,.about:hover,.serves:hover{
+    color:  #577fa2;
+    /* text-decoration: underline #31353e; */
+}
+.summary-sentents{
+    display: flex;
+    max-width: 32em;
+    font-size: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    color: #9696a1;
+}
+.Buttons{
+text-align: center;
+}
+.contant-us{
+    background-color: #577fa2;
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Share Tech', sans-serif;
+    border-radius: 5px;
+}
+.read-more{
+    background-color: #000000;
+    padding: 10px;
+    color: #ffffff;
+    font-family: 'Share Tech', sans-serif;
+    border-radius: 5px;
+}
+.pic1{
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+    border-radius: 5px;
+    padding-bottom: 250px;  
+}
+.pic2{
+    width: 100%;
+    height: 370px;
+    border-radius: 10px;
+    padding: 10px 25px;
+}
+.pargraph1{
+  font-size: 3em;
+  font-family: 'Open Sans', sans-serif;
+display:flex;
+  padding: 10px 25px;
+}
+.sec1{
+    display: flex;
+}
+
+.pargraph-contint{
+    padding: 5px 25px;
+    font-size: 1.5em;  
+    max-width: 600px;
+    color: #9696a1;
+font-family: 'Source Sans Pro', sans-serif;
+padding-bottom: 250px;
+}
+.pic3{
+    float: right;
+    margin: 30px 80px;
+    margin-top: -320px;
+width: 40%;
+height: 370px;
+border-radius: 5px;
+padding-bottom: 250px;
+
+}
+.pargraph3{
+  font-size: 3em;
+  font-family: 'Open Sans', sans-serif;
+margin-left: 40px;
+padding: 20px;
+}
+.pargraph-contint3{
+    margin-left: 40px;
+    font-size: 1.8em;  
+    max-width: 600px;
+    color: #9696a1;
+font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.pic4{
+    margin: 350px 80px;
+    width: 40%;
+    height: 370px;
+    border-radius: 5px;
+    position: absolute;
+}
+.pargraph4{
+  font-size: 3em;
+  margin-left: 50%;
+  font-family: 'Open Sans', sans-serif;
+
+padding: 20px;
+}
+.pargraph-contint4{
+  margin-left: 50%;
+    font-size: 1.8em;  
+    max-width: 600px;
+    color: #9696a1;
+font-family: 'Source Sans Pro', sans-serif;
+padding-bottom: 250px;
+}
+
+.Services{
+   text-align: center;
+}
+.Services-h{
+    font-size: 2em;
+    font-weight: bold;
+}
+.Services-div{
+    text-align: center;
+  
+}
+.Services-div-p{
+font-size: 1.6em;
+max-width: 30em;
+margin-left: auto;
+margin-right: auto;
+color: #9696a1;
+padding-bottom: 150px;
+}
+
+.ps{
+    height: 350px;
+}
+
+
+ #facilities h1 {
+ font-weight: 900;
+ font-size: 34px;
+ padding-bottom: 5px;
+ }
+      .title { 
+           text-align: center;
+           padding: 25px 0px;
+      }
+
+      .title p {
+           font-size: 18px;
+      }
+
+.card-body {
+           box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+      }
+      .card {
+        margin: 20px 10px;
+    }
+
+            .card-body a{
+        color: #0c7f90;
+        text-decoration: none;
+        font-size: 15px;
+        margin-top: auto;
+        font-weight: 600;
+            }
+    .card-body a:hover {
+        color: #63a6b0;
+        text-decoration: none;
+    }
+    .featurette{
+text-align: center;
+    }
+
+.bp{
+    font-size: 1.5em;
+      text-align: center;
+      padding: 10px;
+}
+.hh{
+font-size: 1.1em;
+margin-top: auto;
+margin-bottom: auto;
+}
+.hha{
+    font-size: 1.1em;
+    margin-top: auto;
+    margin-bottom: auto;
+    }
